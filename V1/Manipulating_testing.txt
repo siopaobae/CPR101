@@ -1,0 +1,27 @@
+*** Start of Concatenating Strings Demo ***
+Type the first string (q - to quit):
+Hello
+type the 2nd string:
+World
+Concatenated string is 'HelloWorld'
+Type the first string (q - to quit):
+Hello
+type the 2nd string:
+World
+Concatenated string is 'Hello World'
+Type the first string (q - to quit):
+ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZ
+type the 2nd string:
+Concatenated string is 'ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZBCDEFGHIJKLMNOPQRSTUVWXYZ'
+Type the first string (q - to quit):
+q
+type the 2nd string:
+
+Concatenated string is '  '
+Type the first string (q - to quit):
+123
+type the 2nd string:
+456789
+Concatenated string is '123456789'
+Type the first string (q - to quit):
+q

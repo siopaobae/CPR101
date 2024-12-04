@@ -1,0 +1,12 @@
+*** start of Converting Strings to int Demo ***
+Type an int numeric string (q - to quit):
+!@#$%^^
+Converted number is 0
+Type an int numeric string (q - to quit):
+1234567890
+Converted number is 1234567890
+Type an int numeric string (q - to quit):
+123 456
+Converted number is 123
+Type an int numeric string (q - to quit):
+q

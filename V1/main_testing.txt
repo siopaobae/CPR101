@@ -1,0 +1,139 @@
+--- String Operations Program ---
+
+1. Fundamentals
+2. Manipulating
+3. Converting
+4. Tokenizing
+5. Exit
+Enter your choice: 1
+
+*** Start of Indexing Strings Demo ***
+
+Type not empty string (q to quit):
+ABcdefgH
+Type the character position within the string:
+4
+The character found at 4 position is 'e'
+Type not empty string (q to quit):
+1234567890
+Type the character position within the string:
+9
+The character found at 9 position is '0'
+Type not empty string (q to quit):
+helloeveryone
+Type the character position within the string:
+12
+The character found at 12 position is 'e'
+Type not empty string (q to quit):
+!@#$%^&*()
+*** End of Indexing Strings Demo ***
+
+
+--- String Operations Program ---
+
+1. Fundamentals
+2. Manipulating
+3. Converting
+4. Tokenizing
+5. Exit
+Enter your choice: 2
+
+*** Start of Concatenating Strings Demo ***
+
+Type the first string (q - to quit):
+Hello
+type the 2nd string:
+World
+Concatenated string is 'HelloWorld'
+Type the first string (q - to quit):
+Hello
+type the 2nd string:
+World
+Concatenated string is 'Hello World'
+Type the first string (q - to quit):
+ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZ
+type the 2nd string:
+Concatenated string is 'ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZBCDEFGHIJKLMNOPQRSTUVWXYZ'
+Type the first string (q - to quit):
+q
+*** End of Concatenating Strings Demo ***
+
+
+--- String Operations Program ---
+
+1. Fundamentals
+2. Manipulating
+3. Converting
+4. Tokenizing
+5. Exit
+Enter your choice: 3
+
+*** Start of Converting Strings to Integers Demo ***
+
+Type an int numeric string (q - to quit):
+!@#$%^^
+Converted number is 0
+Type an int numeric string (q - to quit):
+1234567890
+Converted number is 1234567890
+Type an int numeric string (q - to quit):
+123 456
+Converted number is 123
+Type an int numeric string (q - to quit):
+q
+*** End of Converting Strings to Integers Demo ***
+
+
+--- String Operations Program ---
+
+1. Fundamentals
+2. Manipulating
+3. Converting
+4. Tokenizing
+5. Exit
+Enter your choice: 4
+
+*** Start of Tokenizing Words Demo ***
+
+Type a few words separated by space (q - to quit):
+this is a test
+Token #1: 'this'
+Token #2: 'is'
+Token #3: 'a'
+Token #4: 'test'
+
+Type a few words separated by space (q - to quit):
+q
+*** End of Tokenizing Words Demo ***
+
+*** Start of Tokenizing Phrases Demo ***
+
+Type a few words separated by space (q - to quit):
+Hello world
+Word #1 is 'Hello'
+Word #2 is 'world'
+Type a few words separated by space (q - to quit):
+Helloworld
+Word #1 is 'Helloworld'
+Type a few words separated by space (q - to quit):
+1234 5678
+Word #1 is '1234'
+Word #2 is '5678'
+Type a few words separated by space (q - to quit):
+!@#$ #$%^
+Word #1 is '!@#$'
+Word #2 is '#$%^'
+Type a few words separated by space (q - to quit):
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+*** End of Tokenizing Phrases Demo ***
+
+
+--- String Operations Program ---
+
+1. Fundamentals
+2. Manipulating
+3. Converting
+4. Tokenizing
+5. Exit
+Enter your choice: 5
+Exiting the program. Goodbye!
